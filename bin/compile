@@ -7,5 +7,5 @@ echo "Cache dir: $2"
 echo "Build dir contents"
 ls -R $1
 
-echo "cache dir contents"
-ls -R $2
+# echo "cache dir contents"
+# ls -R $2
