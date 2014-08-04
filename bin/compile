@@ -6,7 +6,7 @@ echo "Cache dir: $2"
 
 echo "ENV"
 
-du -a | sort -n -r | head 200
+du -a | sort -n -r | head -n 200
 
 env
 
